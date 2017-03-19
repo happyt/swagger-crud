@@ -16,6 +16,7 @@ swagger project start hello-world
 swagger project edit
 
 ### Directory structure
+```
 -- api  
 ---- controllers
 ------ hello_world.js - main code interface
@@ -36,5 +37,5 @@ swagger project edit
 
 -- app.js
 -- package.json
-
+```
 
