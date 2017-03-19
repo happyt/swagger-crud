@@ -31,7 +31,6 @@
         }else{
             res.status(204).send();
         }
-
     }
     //DELETE /movie/{id} operationId
     function delMovie(req, res, next) {
