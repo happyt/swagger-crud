@@ -15,10 +15,20 @@ swagger project start hello-world
 ### To change/edit the yaml interface (separate window)
 swagger project edit
 
+### To see the docs interface
+Add the dist folder from swagger-ui, changed the url to swagger.yaml, browse to url:port/docs
+
+### Installation
+npm install -g swagger
+
+
 ### Directory structure
 ```
+swagger project create the-collection
+
 -- api  
 ---- controllers
+---- dist           -- swagger-ui interface
 ------ hello_world.js - main code interface
 ---- helpers
 ---- mocks
