@@ -16,7 +16,8 @@ swagger project start hello-world
 swagger project edit
 
 ### To see the docs interface
-Add the dist folder from swagger-ui, changed the url to swagger.yaml, browse to url:port/docs
+Add the dist folder from swagger-ui, changed the url ref inside, to swagger.yaml, browse to url:port/docs
+
 
 ### Installation
 npm install -g swagger
@@ -36,7 +37,7 @@ swagger project create the-collection
 ------ swagger.yaml
 
 — config
-—— db.js            -- database functions, currently im-memory array
+—— db.js            -- database functions, currently in-memory array
 ---- default.yaml
 
 -- test
