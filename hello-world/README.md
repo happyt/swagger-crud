@@ -4,7 +4,8 @@
 
 Added CRUD interface using [https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger](https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger)
 
-Added CRUD back end stems to give a simple CRUD test, without permanent storage. Needs db.
+Added CRUD back end stems to give a simple CRUD test, without permanent storage. 
+Needs db.
 
 ### To start server in mocking mode
 swagger project start hello-world -m
