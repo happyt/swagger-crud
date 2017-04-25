@@ -17,7 +17,8 @@ swagger project start hello-world
 swagger project edit
 
 ### To see the docs interface
-Add the dist folder from swagger-ui, changed the url ref inside, to swagger.yaml, browse to url:port/docs
+Add the dist folder from swagger-ui, changed the url ref inside, to swagger.yaml, 
+browse to url:port/docs
 
 
 ### Installation
